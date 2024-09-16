@@ -166,7 +166,7 @@ a {
 .container_box__left {
     background-color: #CE2C01;
     Background-size: cover;
-    background-image: url('/assets/images/Vector_2.svg');
+    background-image: url(../images/Vector_2.svg);
 
     padding: 9.4091rem 3rem;
     border-radius: 2em;
